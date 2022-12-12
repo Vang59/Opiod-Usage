@@ -23,13 +23,16 @@ Data Sources Used
 
 •	CMS State Drug Utilization Data3
 o	https://www.medicaid.gov/medicaid/prescription-drugs/state-drug-utilization-data/index.html
+  
   -Reports covered outpatient drugs paid for by state Medicaid agencies
 •	2019-2020 National Survey on Drug Use and Health: Model-Based Prevalence Estimates (50 States and the District of Columbia)4
 o	https://www.samhsa.gov/data/report/2019-2020-nsduh-state-prevalence-estimates
+  
   -National survey on drug use and health
   -Model-based prevalence estimates for 50 US States
 •	American Community Survey - Demographic and Housing Estimates5
 o	https://data.census.gov/table?q=DP05
+  
   -Census of the 50 US States
 
  Citations
