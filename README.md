@@ -54,7 +54,7 @@ The purpose of this analysis is to identify if there are any relationship or tre
 * R-squared: 0.76
 * Correlation Coefficient: 0.87
 * pvalue: 6.47
-* The analysis between Population and Prescription count indicates a weak positive relationship between the two variables. This means that as the population increases, the number of prescriptions issues also increases. However, with a pvalue of 6.47, we do not have sufficient information to conclude if there is a significant relationship between the two variables.  
+* The analysis between Population and Prescription Count indicates a weak positive relationship between the two variables. This means that as the population increases, the number of prescriptions count also increases. However, with a pvalue of 6.47, we do not have sufficient information to conclude if there is a significant relationship between the two variables.  
 
 ### Relationship between Substance Usage, Risk, and Disorder Rates
 
@@ -63,7 +63,7 @@ The purpose of this analysis is to identify if there are any relationship or tre
 * R-squared: 0.04
 * Correlation Coefficient: -0.21
 * pvalue: 0.15
-* The analysis between Substance Usage Rates and Risk Rates indicates a negative relationship between the two variables. This means that as the usage rates increase, the risk rates decrease. However, with a low R-squared value ad a negative correlation coefficient, it is important to consider other factors that may affect the relationship between the two variables. 
+* The analysis between Substance Usage Rates and Risk Rates indicates a negative relationship between the two variables. This means that as the usage rates increase, the risk rates decrease. However, with a low R-squared value and a negative correlation coefficient, it is important to consider other factors that may affect the relationship between the two variables. 
 
 ![Usage vs Disorder](Images/2/Usage%20vs%20Disorder.png)
 
@@ -86,21 +86,21 @@ The purpose of this analysis is to identify if there are any relationship or tre
 * R-squared: 0.09
 * Correlation Coefficient: -0.31
 * pvalue: 0.03
-* The analysis between prescription count and Substance Usage Rates indicates a negative relationship between the two variables. This insight can be used to address reduction in prescription count and improve patient's health. 
+* The analysis between Prescription Count and Substance Usage Rates indicates a negative relationship between the two variables. This insight can be used to address reduction in prescription count and improve patient's health. 
 
 ![Prescription vs Risk](Images/3/Rx%20vs%20Risk.png)
 
 * R-squared: 0.00
 * Correlation Coefficient: 0.017
 * pvalue: 0.91
-* The analysis between prescription count and Substance Risk Rates indicates a weak positive relationship between the two variables. However, with a pvalue of 0.91, we do not have sufficient information to conclude if there is a significant relationship between the two variables. 
+* The analysis between Prescription Count and Substance Risk Rates indicates a weak positive relationship between the two variables. However, with a pvalue of 0.91, we do not have sufficient information to conclude if there is a significant relationship between the two variables. 
 
 ![Prescription vs Disorder](Images/3/Rx%20vs%20Disorder.png)
 
 * R-squared: 0.03
 * Correlation Coefficient: -0.16
 * pvalue: 0.26
-* The analysis between prescription count and Substance Disorder Rates indicates a weak positive relationship between the two variables. However, with a pvalue of 0.26, we do not have sufficient information to conclude a significant relationship between the two variables. 
+* The analysis between Prescription Count and Substance Disorder Rates indicates a weak positive relationship between the two variables. However, with a pvalue of 0.26, we do not have sufficient information to conclude a significant relationship between the two variables. 
 
 ## Summary
 Based on the findings, there is a weak positive relationship between prescription count and substance usage, risk, and disorder rates. Further analysis is needed to determine if there is any relationship that can draw insights in making decisions pertaining to substance use disorders. Overall, the findings suggest that reducing prescription count and improving substance use and risk management can contribute to improving patient health and reducing the risk of substance abuse and disorders. 
